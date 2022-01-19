@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+    font-family: "American Typewriter";
+}
+
+h1, h2 {
+    color: orangered;
+    font-family: "American Typewriter";
+    font-size: 20px;
+}
